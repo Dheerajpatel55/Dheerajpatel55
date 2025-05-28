@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dheeraj Patel - Software Development Engineer</title>
@@ -134,7 +132,6 @@
             }
         }
     </style>
-</head>
 <body class="antialiased">
     <div class="container">
 
@@ -221,5 +218,4 @@
             <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&pause=1000&color=FF00FF&center=true&width=450&lines=Open+to+Internships+&+Collabs!;Let's+Shape+the+Future!" alt="Call to Action" class="mx-auto max-w-full h-auto">
         </section>
     </div>
-</body>
-</html>
+
