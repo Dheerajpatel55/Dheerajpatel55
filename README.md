@@ -1,7 +1,7 @@
 
 
 <h1 align="center" style="color:#ff00ff;">Hey there 👾, I'm <strong>Dheeraj Mitta</strong></h1>
-<h3 align="center" style="color:#00f7ff;">Software Dev | Cyber Alchemist | Tech Trailblazer</h3>
+<h3 align="center" style="color:#00f7ff;">Software Dev | Tech Trailblazer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=00F7FF&center=true&width=600&lines=Coding+the+Future.;Building+Secure+Web+Realms.;Innovating+with+AI+and+Blockchain." alt="Typing Animation" />
