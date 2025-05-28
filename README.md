@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/JsU8s2dYZGT9cI8B0o/giphy.gif" alt="Dheeraj Patel Banner" width="1000" height="250"/>
+  <img src="https://media.giphy.com/media/JsU8s2dYZGT9cI8B0o/giphy.gif" alt="Banner" width="1000" height="250" />
 </p>
 
-<h1 align="center">👾 Hey there, I'm <span style="color:#ff00ff;"><strong>Dheeraj Patel</strong></span></h1>
-<h3 align="center"><span style="color:#00f7ff;">Software Dev | Cyber Alchemist | Tech Trailblazer</span></h3>
+<h1 align="center" style="color:#ff00ff;">Hey there 👾, I'm <strong>Dheeraj Mitta</strong></h1>
+<h3 align="center" style="color:#00f7ff;">Software Dev | Cyber Alchemist | Tech Trailblazer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Coding+the+Future.;Building+Secure+Web+Realms.;Innovating+with+AI+and+Blockchain." alt="Typing Animation" />
@@ -15,9 +15,9 @@
 
 - 🚀 Crafting **scalable web applications** and **secure systems**
 - 🔍 Exploring **Blockchain**, **AI**, and **Secure Voting Systems**
-- 💾 Enthusiast in **defense tech** and **generative AI**
-- 📜 Resume: _Coming Soon_ | Portfolio: _Coming Soon_
-- 📧 Reach me: **dheerajpatel.sde@gmail.com**
+- 💾 Passionate about **defense tech** and **generative AI**
+- 📜 [Resume (Coming Soon)]() | [Portfolio (Coming Soon)]()
+- 📧 Reach me at: **dheerajpatel.sde@gmail.com**
 
 ---
 
@@ -32,10 +32,18 @@
 ## 🔗 Connect & Collaborate
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dheeraj-patel-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Dheerajpatel55"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://leetcode.com/Dheerajpatel55"><img src="https://img.shields.io/badge/LeetCode-FE7F2D?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://www.hackerrank.com/Dheerajpatel55"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/dheeraj-patel-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Dheerajpatel55">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/Dheerajpatel55">
+    <img src="https://img.shields.io/badge/LeetCode-FE7F2D?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.hackerrank.com/Dheerajpatel55">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -53,10 +61,10 @@
 
 ## ✨ Key Projects
 
-- 🔐 **Blockchain Voting System** – A secure, transparent blockchain-based voting platform  
-- 🤖 **BERT Healthcare Chatbot** – AI chatbot with contextual language understanding for healthcare  
-- 📱 **Wearable Health App** – Real-time health monitoring via smart devices  
-- 📄 **Resume & ATS Optimizer** – Optimizes resumes for higher ATS compatibility
+- 🔐 **Blockchain Voting System** – Transparent & secure blockchain-based election prototype  
+- 🤖 **BERT Healthcare Chatbot** – NLP-powered medical assistant chatbot using BERT  
+- 📱 **Wearable Health Monitoring App** – IoT-integrated mobile app for real-time health tracking  
+- 📄 **Resume & ATS Optimizer** – Web tool to boost resume visibility in applicant tracking systems
 
 ---
 
