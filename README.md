@@ -14,7 +14,6 @@
 - 🚀 Building **scalable web applications** & **secure systems**
 - 🧠 Exploring **Blockchain, AI**, and **Voting System Security**
 - 💡 Fan of **Generative AI** & **defense-tech innovation**
-- 📧 Contact: **dheerajpatel.sde@gmail.com**
 
 ---
 
